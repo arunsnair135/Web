@@ -41,5 +41,3 @@ Password: <input type="password" name="password"><br />
 </body>
 </html>
 
-php login crct.txt
-Displaying php login crct.txt.
